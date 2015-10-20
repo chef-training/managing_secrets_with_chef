@@ -4,14 +4,20 @@ This repository contains a number of exercises that lead the learner through usi
 
 ## Prerequisites
 
-The content assumes individuals understand:
+The content assumes the leaners have:
 
-* Have a Chef Server
+* A Chef Server
 * Authenticated with the Chef Server
+* A node bootstrapped named 'node1'
+
+The content assumes individuals understands:
+
 * Using `knife`
-* Using Resources
+* Using Search through `knife`
 * Creating a Recipe
 * Creating a Cookbook
+* Using Search within a Recipe
+* Using Resources
 
 ## Material
 
