@@ -9,6 +9,7 @@ The content assumes the leaners have:
 * A Chef Server
 * Authenticated with the Chef Server
 * A node bootstrapped named 'node1'
+* A node that can be reached through `knife ssh`
 
 The content assumes individuals understands:
 
@@ -22,6 +23,10 @@ The content assumes individuals understands:
 ## Material
 
 * Introduction to Data Bags
+
+> This content is objective complete
+>
+> This content is command complete
 
 This tutorial walks the learner through creating data bags to manage users and groups within their organization.
 
